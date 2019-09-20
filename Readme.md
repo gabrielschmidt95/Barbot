@@ -8,6 +8,4 @@ In the app you can also enable/disable ingredients, change the position of each 
 
 You can see on [YouTube](https://youtu.be/c6LF8QEFD2U)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c6LF8QEFD2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Required parts
