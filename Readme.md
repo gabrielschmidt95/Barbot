@@ -9,3 +9,10 @@ In the app you can also enable/disable ingredients, change the position of each 
 You can see on [YouTube](https://youtu.be/c6LF8QEFD2U)
 
 ## Required parts
+
+-  Power 12V/5V 
+-  nodeMCU (Wifi)
+-  Limit switch
+-  Servo motor
+-  Bearings
+-  Structure (MDF)
