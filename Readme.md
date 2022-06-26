@@ -2,7 +2,7 @@
 
 Web APP          |  Machine
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/gabrielschmidt95/Barbot/master/img/app.gif)  |  ![](https://raw.githubusercontent.com/gabrielschmidt95/Barbot/master/img/machine.gif)
+![](https://raw.githubusercontent.com/gabrielschmidt95/Barbot/master/img/web-app.gif)  |  ![](https://raw.githubusercontent.com/gabrielschmidt95/Barbot/master/img/barbot.gif)
 
 Barbot is an open source NodeMCU cocktail mixing robot controlled with the hybrid mobile app via WiFi. It has been designed to hold up to 4 bottles of ingredients for making the cocktails, dispensing the correct amount from each to mix your cocktail of choice.
 
